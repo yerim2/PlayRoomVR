@@ -25,3 +25,17 @@
 >
 ![4](https://user-images.githubusercontent.com/24403704/52039740-ab321480-2578-11e9-99ec-1afe8962cd07.PNG)
 >
+### 2. 플레이 방법
+>
+> 1. playroom 파일을 다운로드 후 unity에서 폴더 전체를 open
+> 2. steam VR 패키지 다운로드 후 import
+> 3. HTC Vive 연결을 확인
+> 4. unity 내 play 버튼 클릭
+> 5. HTC Vive handler를 물체 가까이 대고 trigger를 누르면 물체를 잡을 수 있음
+> 6. 던지는 모션을 취하면 물체를 던질 수 있음 ( 상자, 케이크, 빵, 달, 해, 공..)
+> 7. HTC Vive의 둥근 부분을 누르고 파란 원이 화면에 나타나면 손을뗀다 = 해당 부분으로 이동 가능
+>
+### 3. 구현방법
+>
+> unity에 해당 프로젝트 실행 후 각 asset에 들어있는 c# script를 참고
+>
