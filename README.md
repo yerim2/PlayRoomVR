@@ -1,6 +1,6 @@
 # PlayRoomVR
 ![0](https://user-images.githubusercontent.com/24403704/52039722-9eadbc00-2578-11e9-8530-0a619fc2f38f.PNG)
-Unity based VR game with HTC Vive 
+
 ### HTC Vive를 이용하여 물체를 던지고 새총쏘기 게임, 농구게임을 할 수 있는 playroom게임입니다.
 =====================================
 ### 1. 플레이 화면
